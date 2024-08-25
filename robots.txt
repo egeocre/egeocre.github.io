@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://egeocre.github.io/sitemap.html.gz
+Sitemap: https://egeocre.github.io/app/sitemap.html.gz
+Sitemap: https://egeocre.github.io/assets/sitemap.html.gz
+Sitemap: https://egeocre.github.io/css/sitemap.html.gz
+Sitemap: https://egeocre.github.io/includes/sitemap.html.gz
+Sitemap: https://egeocre.github.io/item/sitemap.html.gz
+Sitemap: https://egeocre.github.io/src/sitemap.html.gz
